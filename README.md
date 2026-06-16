@@ -158,6 +158,18 @@ const BUTTON_COLOURS = {
     hoverShadow: 'rgba(254, 108, 67, 0.25)'
 };
 ```
+### SysAid Green (Spaces UI) Theme Example
+
+```javascript
+const BUTTON_COLOURS = {
+    background: '#6f9c8c',
+    border: '#6f9c8c',
+    text: '#ffffff',
+    hoverBackground: '#5d947f',
+    hoverShadow: 'rgba(254, 108, 67, 0.25)'
+};
+```
+
 
 ---
 

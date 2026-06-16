@@ -10,17 +10,11 @@ Built as a lightweight Tampermonkey userscript for SysAid administrators, with e
 
 ![SysAid Activity Quick Time Buttons](images/screenshot.png)
 
-> Replace the image above with your own screenshot file stored in:
->
-> ```
-> /images/screenshot.png
-> ```
-
 ---
 
 ## Install
 
-[![Install](https://img.shields.io/badge/Tampermonkey-Install-green)](https://raw.githubusercontent.com/YOURUSERNAME/sysaid-activity-quick-time-buttons/main/sysaid-activity-quick-time-buttons.user.js)
+[![Install](https://img.shields.io/badge/Tampermonkey-Install-green)](https://raw.githubusercontent.com/rhigo/sysaid-activity-quick-time-buttons/main/sysaid-activity-quick-time-buttons.user.js)
 
 Click the button above and Tampermonkey should automatically detect the userscript and prompt you to install it.
 
